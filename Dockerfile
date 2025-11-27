@@ -21,4 +21,4 @@ USER appuser
 
 # 7. Comando para iniciar la aplicación
 # (Asegúrate de que 'main.py' sea el nombre de tu archivo principal)
-CMD ["python", "Daniel-devops-practica/main.py"]
+CMD ["python", "main.py"]
